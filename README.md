@@ -3,7 +3,7 @@
 This Shiny app processes .XLSX files with genomic coordinates and converts them into .BED files or UCSC Genome Browser track files. When generating UCSC tracks, the output BED files include a track definition string in the header, enabling direct upload to the UCSC Genome Browser through the Custom Tracks interface without the need to convert them to BigBed format.
 
 ### Links
-[xlsx2track (shinyapps.io)](https://mpyatkov.shinyapps.io/xlsxconvert/)
+[xlsxconvert (shinyapps.io)](https://mpyatkov.shinyapps.io/xlsxconvert/)
 
 ---
 ### Acknowledgements
